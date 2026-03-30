@@ -5,7 +5,6 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  PART 1: ONE-TIME SETUP (Do this ONCE)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 STEP A — Get Kite Connect API access (₹2,000/month)
   1. Go to: https://developers.kite.trade
   2. Login with your Zerodha account (same User ID + password)
